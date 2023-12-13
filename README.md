@@ -1,10 +1,12 @@
 # Hi 👋 My name is Jose @pbyjo
-### React developer 🦾
-#### Me gusta escribir código. Programador enfocado a la web, apasionado por el mundo tecnológico, me considero escéptico, autodidacta y proactivo. Poseo experiencia creando sitios web y creando entornos de desarrollo. Me gusta trabajar con webpack, alto conocimiento en CSS y SASS, Domino de forma amplia HTML y git, me gusta usar React para aplicaciones web que necesiten un manejo de estado y consumo de Api's, JS vanilla en preferencia para sitios mas simples y pequeños. Alto entendimiento en el diseño y conceptos visuales.
+### Web developer | Typescript & NEXTJS 🦾
+#### Apasionado por el mundo tecnológico, me encanta escribir código. soy un programador enfocado en la web, con una mentalidad escéptica y resolutiva.
+
+#### Cuento con experiencia trabajando en aplicativos web & web3 y creación de entornos de desarrollo. Mi enfoque principal es trabajar con NextJS y React pero con un gusto personal por desarrollar en svelte. Conocimientos amplios en CSS y SASS. Gracias a mi experiencia, he desarrollado un buen entendimiento de los conceptos visuales y el diseño, lo que me permite crear interfaces atractivas y funcionales.
 
 - 🌍  I'm based in Bogotá, Colombia
 - ✉️  You can contact me at [byjo.developer@gmail.com](mailto:byjo.developer@gmail.com)
-- 🧠  I'm learning Firebase and NextJS
+- 🧠  I'm learning Node and Svelte.
 - 🤝  I'm open to collaborating on Nextjs, React, UI and css tricks
 
 ### Skills
