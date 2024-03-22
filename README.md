@@ -1,13 +1,11 @@
 # Hi 👋 My name is Jose @pbyjo
-### Web developer | Typescript & NEXTJS 🦾
-#### Apasionado por el mundo tecnológico, me encanta escribir código. soy un programador enfocado en la web, con una mentalidad escéptica y resolutiva.
-
-#### Cuento con experiencia trabajando en aplicativos web & web3 y creación de entornos de desarrollo. Mi enfoque principal es trabajar con NextJS y React pero con un gusto personal por desarrollar en svelte. Conocimientos amplios en CSS y SASS. Gracias a mi experiencia, he desarrollado un buen entendimiento de los conceptos visuales y el diseño, lo que me permite crear interfaces atractivas y funcionales.
+### Web developer | Javascript & Typescript & Dart 🦾
+#### Apasionado por el mundo tecnológico, me encanta escribir código. Programador con un gran interes en la web y en el desarrollo mobile, con una mentalidad escéptica y resolutiva.
 
 - 🌍  I'm based in Bogotá, Colombia
 - ✉️  You can contact me at [byjo.developer@gmail.com](mailto:byjo.developer@gmail.com)
 - 🧠  I'm learning Node and Svelte.
-- 🤝  I'm open to collaborating on Nextjs, React, UI and css tricks
+- 🤝  I'm open to collaborating on Nextjs, React, Flutter, UI and css tricks
 
 ### Skills
 
